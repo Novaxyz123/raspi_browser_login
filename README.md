@@ -31,3 +31,4 @@ XAUTHORITY=/home/pi/.Xauthority
 55 11 * * * reboot
 
 
+
