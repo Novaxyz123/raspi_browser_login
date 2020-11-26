@@ -25,7 +25,7 @@ UID=0
 USER=root
 XAUTHORITY=/home/pi/.Xauthority
 
-* Edit this file to introduce tasks to be run by cron.
+** Edit this file to introduce tasks to be run by cron.
  
 * Each task to run has to be defined through a single line
 * indicating with different fields when the task will be run
