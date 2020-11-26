@@ -17,7 +17,7 @@ Now we need the Python script shown in the repository saved to the home/pi folde
 
 Then we will use Cron to schedule the script to run:
 In Terminal again, type in 'cron -e'.
-The part (beginning with 'Edit this file...' and ending with '* m h  dom mon dow   command') should appear, add the lines I have shown on lines 22-26 and 51-52 below as shown. (I also used cron to reboot the Pi daily):
+The part (beginning with 'Edit this file...' and ending with '* m h  dom mon dow   command') should appear, add the additional lines as shown (DISPLAY... etc.) (I also used cron to reboot the Pi daily):
 
 DISPLAY=:0
 TERM=xterm
