@@ -30,3 +30,4 @@ XAUTHORITY=/home/pi/.Xauthority
 0 9 * * * /usr/bin/python3.4 /home/pi/iris_login.py >> /home/pi/logfile 2>&1
 55 11 * * * reboot
 
+
