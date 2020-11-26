@@ -25,7 +25,7 @@ UID=0
 USER=root 
 XAUTHORITY=/home/pi/.Xauthority
 
-** Edit this file to introduce tasks to be run by cron..... (crontab poulates with this notice)
+** Edit this file to introduce tasks to be run by cron..... (crontab populates with this notice)
 
 0 9 * * * /usr/bin/python3.4 /home/pi/iris_login.py >> /home/pi/logfile 2>&1
 55 11 * * * reboot
